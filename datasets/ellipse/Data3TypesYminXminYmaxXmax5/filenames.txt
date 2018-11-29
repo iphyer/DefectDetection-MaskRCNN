@@ -1,0 +1,91 @@
+0501_300kx_1nm_clhaadf3_0006
+0501_300kx_1nm_clhaadf3_0008
+0501_300kx_1nm_clhaadf3_0010
+0501_300kx_1nm_clhaadf3_0012
+0501_300kx_1nm_clhaadf3_0014
+0501_300kx_1nm_clhaadf3_0016
+0501_300kx_1nm_clhaadf3_0018
+1ROI_100kx_4100CL_foil1
+200kV_500kx_p2nm_8cmCL_grain1_0002_n
+200kV_500kx_p2nm_8cmCL_grain1_0004_n
+200kV_500kx_p2nm_8cmCL_grain1_0048 - Copy
+200kV_500kx_p2nm_8cmCL_grain1_0050 - Copy
+200kV_500kx_p2nm_8cmCL_grain1_0052 - Copy
+200kV_500kx_p2nm_8cmCL_grain1_0054 - Copy
+200kV_500kx_p2nm_8cmCL_grain1_0056 - Copy
+200kV_500kx_p2nm_8cmCL_grain1_0058 - Copy
+200kV_500kx_p2nm_8cmCL_grain1_0060 - Copy
+200kV_500kx_p2nm_8cmCL_grain1_0062 - Copy
+200kV_500kx_p2nm_8cmCL_grain1_0064 - Copy
+200kV_500kx_p2nm_8cmCL_grain1_0066 - Copy
+200kV_500kx_p2nm_8cmCL_grain1_0072 - Copy
+200kV_500kx_p2nm_8cmCL_grain1_0076 - Copy
+200kV_500kx_p2nm_8cmCL_grain1_0078 - Copy
+200kV_500kx_p2nm_8cmCL_grain1_0080 - Copy
+200kV_500kx_p2nm_8cmCL_grain1_0082 - Copy
+200kV_500kx_p2nm_8cmCL_grain1_0084 - Copy
+200kV_500kx_p2nm_8cmCL_grain1_0086 - Copy
+200kV_500kx_p2nm_8cmCL_grain1_0090 - Copy
+200kV_500kx_p2nm_8cmCL_grain1_0092 - Copy
+200kV_500kx_p2nm_8cmCL_grain1_0109
+200kV_500kx_p2nm_8cmCL_grain1_0111
+200kV_500kx_p2nm_8cmCL_grain1_0129
+200kV_500kx_p2nm_8cmCL_grain2_0008
+200kV_500kx_p2nm_8cmCL_grain2_0010
+200kV_500kx_p2nm_8cmCL_grain2_0012
+200kV_500kx_p2nm_8cmCL_grain2_0034
+200kV_500kx_p2nm_8cmCL_grain2_0036
+200kV_500kx_p2nm_8cmCL_grain2_0038
+200kV_500kx_p2nm_8cmCL_grain2_0042
+200kV_500kx_p2nm_8cmCL_grain3_4_0258
+2501_300kx_1nm_clhaadf3_0050
+2501_300kx_1nm_clhaadf3_0054
+2ROI_100kx_4100CL_foil1
+3ROI_100kx_4100CL_foil1
+5401_300kx_1nm_clhaadf3_0004
+5401_300kx_1nm_clhaadf3_0006
+5401_300kx_1nm_clhaadf3_0008
+5401_300kx_1nm_clhaadf3_0016
+5401_300kx_1nm_clhaadf3_0018
+5401_300kx_1nm_clhaadf3_0020
+5401_300kx_1nm_clhaadf3_0022
+5401_300kx_1nm_clhaadf3_0024
+5401_300kx_1nm_clhaadf3_0026
+5ROI_100kx_4100CL_foil1 copy
+6ROI_100kx_4100CL_foil1 copy
+7ROI_100kx_4100CL_foil1 copy
+8ROI_100kx_4100CL_foil1
+9ROI_100kx_4100CL_foil1
+BF X500K, 01 (2)
+BF X500K, 01 (3)
+BF X500K, 04
+BF X500K, 05 (2)
+BF X500K, 05 (3)
+BF X500K, 05
+BF X500K, 06 (2)
+BF X500K, 06 (3)
+BF X500K, 06
+BF X500K, 07 (2)
+BF X500K, 08 (2)
+BF X500K, 08 (3)
+g1_backonzone_GBtowardsfrom_0005
+g1_backonzone_GBtowardsfrom_0007
+g1_frontonzone_GBtowardsback_0006
+g2_midonzone_GBtowardsfront_0005
+g2_midonzone_GBtowardsfront_0010
+g2_midonzone_GBtowardsfront_0034
+g2_midonzone_GBtowardsmmiddle_0003
+g2_midonzone_GBtowardsmmiddle_0005
+grid1_roi1_500kx_0p5nm_haadf1_0001
+grid1_roi1_500kx_0p5nm_haadf1_0003
+grid1_roi1_500kx_0p5nm_haadf1_0007
+grid1_roi1_500kx_0p5nm_haadf1_0009
+grid1_roi1_500kx_0p5nm_haadf1_0011
+grid1_roi1_500kx_0p5nm_haadf1_0013
+grid1_roi1_500kx_0p5nm_haadf1_0019
+grid1_roi1_500kx_0p5nm_haadf1_0021
+grid1_roi1_500kx_0p5nm_haadf1_0023
+grid1_roi1_500kx_0p5nm_haadf1_0025
+grid1_roi1_500kx_0p5nm_haadf1_0027
+grid1_roi1_500kx_0p5nm_haadf1_0029
+grid1_roi1_500kx_0p5nm_haadf1_0031
