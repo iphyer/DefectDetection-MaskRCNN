@@ -127,7 +127,7 @@ _C.MODEL.RPN.ANCHOR_SIZES = (32, 64, 128, 256, 512)
 # For FPN, number of strides should match number of scales
 _C.MODEL.RPN.ANCHOR_STRIDE = (16,)
 # RPN anchor aspect ratios
-_C.MODEL.RPN.ASPECT_RATIOS = (0.5, 0.8, 1.0, 1.25, 1.5,2.0)
+_C.MODEL.RPN.ASPECT_RATIOS = (0.69, 0.99, 1.26, 1.60, 2.29, 3.68)
 # Remove RPN anchors that go outside the image by RPN_STRADDLE_THRESH pixels
 # Set to -1 or a large value, e.g. 100000, to disable pruning anchors
 _C.MODEL.RPN.STRADDLE_THRESH = 0
@@ -418,6 +418,6 @@ _C.TEST.DETECTIONS_PER_IMG = 100
 # ---------------------------------------------------------------------------- #
 # Misc options
 # ---------------------------------------------------------------------------- #
-_C.OUTPUT_DIR = "/content/DefectDetection-MaskRCNN/output"
+_C.OUTPUT_DIR = "/content/gdrive"
 
 _C.PATHS_CATALOG = os.path.join(os.path.dirname(__file__), "paths_catalog.py")
