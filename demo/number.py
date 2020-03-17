@@ -40,8 +40,8 @@ if __name__ == "__main__":
         min_image_size=800,
         confidence_threshold=0.1,
     )
-    testPath = "../datasets/val"
-    coco=COCO("../datasets/annotations/val.json")
+    testPath = "../datasets/test"
+    coco=COCO("../datasets/annotations/test.json")
 
 
     confusionMatrix = np.zeros((4,4))
@@ -61,13 +61,13 @@ if __name__ == "__main__":
         gt_mask_list = [[],[],[],[]]
         #print(img)
         #image_name = "grid1_roi2_500kx_0p5nm_haadf1_0039.jpg"
-        image = cv2.imread("../datasets/val/" + image_name)
+        image = cv2.imread("../datasets/test/" + image_name)
         #imshow(image)
         # prepare gt mask
         catIds = coco.getCatIds()
         imgIds = coco.getImgIds(catIds=catIds )
         gt_labels = list()
-        with open('../datasets/annotations/val.json') as json_data:
+        with open('../datasets/annotations/test.json') as json_data:
             annotation = json.loads(json_data.read())
             images = annotation['images']
             imgId = 0
