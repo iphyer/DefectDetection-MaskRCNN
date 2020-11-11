@@ -1,3 +1,5 @@
+# This code reposityory will be archived since we decided to use new [Detectron2](https://github.com/facebookresearch/detectron2)
+
 # Faster R-CNN and Mask R-CNN in PyTorch 1.0
 
 This project aims at providing the necessary building blocks for easily
